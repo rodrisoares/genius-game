@@ -1,5 +1,5 @@
 # Genius game 
 
-Criação do Genius game utilizando HTML, CSS e JavaScript.
+Criação do clássico Genius game utilizando HTML, CSS e JavaScript.
 
 
